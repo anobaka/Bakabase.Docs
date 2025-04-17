@@ -1,9 +1,36 @@
+## [1.9.1-beta5](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1-beta5/installer/Bakabase.zip)(2025-04-17)
+
+### Features
+
+* 在文件处理器中可以通过双击文件来打开文件 ([#688](https://github.com/Anobaka/Bakabase/issues/688))
+* 在文件处理器中为部分错误增加简述 ([#690](https://github.com/Anobaka/Bakabase/issues/690))
+* 在下载器报错信息中增加当前检查点，可以用于跳过当前下载项 ([#692](https://github.com/Anobaka/Bakabase/issues/692))
+* 在文件处理器的删除文件确认弹窗中聚合文件路径 ([#694](https://github.com/Anobaka/Bakabase/issues/694))
+* 将升级内置7z从19.00升级至24.09 ([#695](https://github.com/Anobaka/Bakabase/issues/695))
+* 文件处理器，已选择项分布在不同文件夹时，也可以使用自动分组、包裹和提取功能 ([#696](https://github.com/Anobaka/Bakabase/issues/696))
+* 文件处理器，使用系统图标取代当前的文件夹和默认文件图标 ([#697](https://github.com/Anobaka/Bakabase/issues/697))
+* 文件处理器，增加批量展开和折叠功能 ([#698](https://github.com/Anobaka/Bakabase/issues/698))
+* 文件处理器，按住shift时支持跨文件夹选择 ([#699](https://github.com/Anobaka/Bakabase/issues/699))
+* 文件处理器，在有弹窗相关的操作时不再自动取消已选择的文件 ([#700](https://github.com/Anobaka/Bakabase/issues/700))
+* 为资源增加是否已播放、上次播放时间、历史播放记录，支持根据上次播放时间排序 ([#701](https://github.com/Anobaka/Bakabase/issues/701))
+* 可在启动时指定起始端口号 ([#702](https://github.com/Anobaka/Bakabase/issues/702))
+* 更换【可播放文件查找器】时清空相关缓存 ([#703](https://github.com/Anobaka/Bakabase/issues/703))
+* 优化属性转换规则表和样例表的布局 ([#704](https://github.com/Anobaka/Bakabase/issues/704))
+
+### Bugs
+
+* 修复如果系统处于dark mode，首次启动程序时主题异常的问题 ([#691](https://github.com/Anobaka/Bakabase/issues/691))
+* 在资源列表最后一行的资源名称过长时，无法显示完整名称 ([#693](https://github.com/Anobaka/Bakabase/issues/693))
+* 单选/多选属性时无法配置默认选项 ([#705](https://github.com/Anobaka/Bakabase/issues/705))
+
 ## [1.9.1-beta4](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1-beta4/installer/Bakabase.zip)(2025-04-08)
 
 ### Features
 
 * 重构后台任务 ([#683](https://github.com/Anobaka/Bakabase/issues/683))
 * 为下载任务的筛选条件增加【全部】 ([#686](https://github.com/Anobaka/Bakabase/issues/686))
+* 首页属性值增加覆盖度数据 ([#687](https://github.com/Anobaka/Bakabase/issues/687))
+* 为文件移动器增加可覆盖选项 ([#689](https://github.com/Anobaka/Bakabase/issues/689))
 
 ### Bugs
 
