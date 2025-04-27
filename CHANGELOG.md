@@ -1,3 +1,27 @@
+## [1.9.1](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1/installer/Bakabase.zip)(2025-04-27)
+
+### Features
+
+* 更换GA至Microsoft Clarity ([#707](https://github.com/Anobaka/Bakabase/issues/707))
+* 自定义属性增加多级数据支持 ([#708](https://github.com/Anobaka/Bakabase/issues/708))
+* 配置单选、多选项时，按下回车可以快速创建新选项 ([#711](https://github.com/Anobaka/Bakabase/issues/711))
+* 【建议】建议将媒体库下的自定义组件项，移动至数据下 ([#714](https://github.com/Anobaka/Bakabase/issues/714))
+* 【建议】允许在媒体库资源中正则匹配不到时应用 ([#723](https://github.com/Anobaka/Bakabase/issues/723))
+* 【建议】允许复制媒体库中路径配置里的正则表达式 ([#728](https://github.com/Anobaka/Bakabase/issues/728))
+* 将文件不存在的资源视为未知资源 ([#731](https://github.com/Anobaka/Bakabase/issues/731))
+
+### Bugs
+
+* 文件处理器，进行自动分组（选择项的内部文件）时如果选择了文件（非文件夹）会报错 ([#706](https://github.com/Anobaka/Bakabase/issues/706))
+* 单选、多选、标签自定义属性颜色配置无效 ([#709](https://github.com/Anobaka/Bakabase/issues/709))
+* 配置单选、多选和标签时，按字母顺序排序选项结果异常 ([#710](https://github.com/Anobaka/Bakabase/issues/710))
+* 【bug】创建自定义属性添加到媒体库的分类中后，程序未响应 ([#712](https://github.com/Anobaka/Bakabase/issues/712))
+* 【bug】快捷搜索保存后无法修改 ([#713](https://github.com/Anobaka/Bakabase/issues/713))
+* 【bug】部分场景下，资源文件内的标签会和设置有一点重合 ([#717](https://github.com/Anobaka/Bakabase/issues/717))
+* 【bug】ico读取失败 ([#724](https://github.com/Anobaka/Bakabase/issues/724))
+* 增强器说明会超出所在区域 ([#729](https://github.com/Anobaka/Bakabase/issues/729))
+
+
 ## [1.9.1-beta5](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1-beta5/installer/Bakabase.zip)(2025-04-17)
 
 ### Features

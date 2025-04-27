@@ -20,11 +20,7 @@
 
 | 版本 | 发布时间 | 下载地址 | 更新说明 |
 | ------------- | ------------- | ------------- | ------------- |
-| [v1.9.1-beta5](./CHANGELOG.md) | 2025-04-17 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1-beta5/installer/Bakabase.zip) | / |
-| [v1.9.1-beta4](./CHANGELOG.md) | 2025-04-08 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1-beta4/installer/Bakabase.zip) | / |
-| [v1.9.1-beta3](./CHANGELOG.md) | 2025-02-10 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1-beta3/installer/Bakabase.zip) | / |
-| [v1.9.1-beta2](./CHANGELOG.md) | 2025-01-04 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1-beta2/installer/Bakabase.zip) | / |
-| [v1.9.1-beta](./CHANGELOG.md) | 2024-12-23 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1-beta/installer/Bakabase.zip) | / |
+| [v1.9.1](./CHANGELOG.md) | 2025-04-27 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1/installer/Bakabase.zip) | / |
 | [v1.9.0](./CHANGELOG.md) | 2024-12-12 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.0/installer/Bakabase.zip) | [<1.9.0版本升级前请看](/guide/v190/v1.9.0) |
 | [v1.8.2](./CHANGELOG.md) | 2024-08-26 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.8.2/installer/Bakabase.InsideWorld.zip) | / |
 | [v1.8.1](./CHANGELOG.md) | 2024-08-13 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.8.1/installer/Bakabase.InsideWorld.zip) | / |
