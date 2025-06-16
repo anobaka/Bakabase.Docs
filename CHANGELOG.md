@@ -1,3 +1,30 @@
+## [1.9.2-beta](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.2-beta/installer/Bakabase.zip)(2025-06-16)
+
+### Features
+
+* 增加媒体库同步选项 ([#730](https://github.com/Anobaka/Bakabase/issues/730))
+* 在资源详情中快速绑定/解绑当前分类的属性 ([#732](https://github.com/Anobaka/Bakabase/issues/732))
+* 增加属性全局排序、分类内属性排序功能 ([#733](https://github.com/Anobaka/Bakabase/issues/733))
+* 重构媒体库，支持配置复用和分享 ([#735](https://github.com/Anobaka/Bakabase/issues/735))
+* 新增文件扩展名组，用于快速进行文件筛选 ([#736](https://github.com/Anobaka/Bakabase/issues/736))
+* 新增帖子分析器，用于提取资源下载地址 ([#737](https://github.com/Anobaka/Bakabase/issues/737))
+* 新增tampermonkey脚本集成 ([#738](https://github.com/Anobaka/Bakabase/issues/738))
+* exhentai下载器增加任务类型：下载种子 ([#739](https://github.com/Anobaka/Bakabase/issues/739))
+* 移除多选、单选、标签和多级数据的【允许动态增加数据】选项 ([#740](https://github.com/Anobaka/Bakabase/issues/740))
+* 将下载器的ui更新至新版 ([#741](https://github.com/Anobaka/Bakabase/issues/741))
+* 在资源列表页增加【显示资源id】选项 ([#742](https://github.com/Anobaka/Bakabase/issues/742))
+* 在资源列表页显示已筛选的资源总数 ([#743](https://github.com/Anobaka/Bakabase/issues/743))
+* 优化资源列表页筛选功能的交互 ([#744](https://github.com/Anobaka/Bakabase/issues/744))
+* 增加curl和ollama配置 ([#745](https://github.com/Anobaka/Bakabase/issues/745))
+* 可以在资源详情中隐藏时间相关的基础属性 ([#746](https://github.com/Anobaka/Bakabase/issues/746))
+* 允许指定程序默认监听端口 ([#747](https://github.com/Anobaka/Bakabase/issues/747))
+* 在系统配置中显示当前监听的端口和api文档地址 ([#748](https://github.com/Anobaka/Bakabase/issues/748))
+* 增加媒体库同步设置 ([#749](https://github.com/Anobaka/Bakabase/issues/749))
+
+### Bugs
+
+* 文件移动器覆盖设置不生效 ([#734](https://github.com/Anobaka/Bakabase/issues/734))
+
 ## [1.9.1](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1/installer/Bakabase.zip)(2025-04-27)
 
 ### Features
