@@ -1,4 +1,4 @@
-## [1.9.2-beta](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.2-beta.24/installer/bakabase.zip)(2025-06-16)
+## [1.9.2-beta](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.2-beta.24/installer/bakabase.zip)(2025-07-12)
 
 ### Features
 
