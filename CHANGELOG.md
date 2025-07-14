@@ -1,4 +1,4 @@
-## [1.9.2-beta](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.2-beta.24/installer/bakabase.zip)(2025-07-12)
+## [1.9.2-beta](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.2-beta.8/installer/Bakabase.zip)(2025-07-14)
 
 ### Features
 
@@ -20,6 +20,17 @@
 * 允许指定程序默认监听端口 ([#747](https://github.com/Anobaka/Bakabase/issues/747))
 * 在系统配置中显示当前监听的端口和api文档地址 ([#748](https://github.com/Anobaka/Bakabase/issues/748))
 * 增加媒体库同步设置 ([#749](https://github.com/Anobaka/Bakabase/issues/749))
+* 调整版本编号为{当前的版本编号version}.{height} ([#750](https://github.com/Anobaka/Bakabase/issues/750))
+* 为媒体库增加颜色设置 ([#751](https://github.com/Anobaka/Bakabase/issues/751))
+* 增加子资源查询页面 ([#752](https://github.com/Anobaka/Bakabase/issues/752))
+* 增加批量文件名修改器 ([#753](https://github.com/Anobaka/Bakabase/issues/753))
+* 为媒体库增加一键搜索内部资源的跳转按钮 ([#754](https://github.com/Anobaka/Bakabase/issues/754))
+* 增加kodi增强器 ([#755](https://github.com/Anobaka/Bakabase/issues/755))
+* 为目前不能直接播放的文件增加硬/软解码功能 ([#756](https://github.com/Anobaka/Bakabase/issues/756))
+
+### Bugs
+
+* 文件移动器覆盖设置不生效 ([#734](https://github.com/Anobaka/Bakabase/issues/734))
 
 ### Bugs
 

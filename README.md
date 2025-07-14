@@ -1,6 +1,6 @@
 ## 感谢使用
 
-~~Inside World~~ Bakabase 是一款离线媒体管理库，用于本地媒体快速处理、搜索、预览与播放。
+Bakabase 是一款离线媒体管理库，用于本地媒体快速处理、搜索、预览与播放。
 
 目前支持动画、漫画、音声、本子、电影、图集等媒体的管理，老司机食用效果更加哦~
 
@@ -20,7 +20,7 @@
 
 | 版本 | 更新时间 | 下载地址 | 更新说明 |
 | ------------- | ------------- | ------------- | ------------- |
-| [v1.9.2-beta](./CHANGELOG.md) | 2025-07-12 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.2-beta.24/installer/bakabase.zip) | / |
+| [v1.9.2-beta](./CHANGELOG.md) | 2025-07-14 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.2-beta.8/installer/bakabase.zip) | / |
 | [v1.9.1](./CHANGELOG.md) | 2025-04-27 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1/installer/Bakabase.zip) | / |
 | [v1.9.0](./CHANGELOG.md) | 2024-12-12 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.0/installer/Bakabase.zip) | [<1.9.0版本升级前请看](/guide/v190/v1.9.0) |
 | [v1.8.2](./CHANGELOG.md) | 2024-08-26 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.8.2/installer/Bakabase.InsideWorld.zip) | / |
