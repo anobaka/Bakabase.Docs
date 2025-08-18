@@ -1,4 +1,4 @@
-## [1.9.2-beta](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.2-beta.8/installer/Bakabase.zip)(2025-07-14)
+## [1.9.2-beta.23](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.2-beta.23/installer/Bakabase.zip)(2025-08-17)
 
 ### Features
 
@@ -26,15 +26,32 @@
 * 增加批量文件名修改器 ([#753](https://github.com/Anobaka/Bakabase/issues/753))
 * 为媒体库增加一键搜索内部资源的跳转按钮 ([#754](https://github.com/Anobaka/Bakabase/issues/754))
 * 增加kodi增强器 ([#755](https://github.com/Anobaka/Bakabase/issues/755))
-* 为目前不能直接播放的文件增加硬/软解码功能 ([#756](https://github.com/Anobaka/Bakabase/issues/756))
+* 优化文件处理器的列出文件的速度 ([#757](https://github.com/Anobaka/Bakabase/issues/757))
+* 移除筛选条件的【禁用/删除】浮窗的关闭延迟 ([#762](https://github.com/Anobaka/Bakabase/issues/762))
+* 在ui报错的弹窗中增加报错详情 ([#763](https://github.com/Anobaka/Bakabase/issues/763))
+* 将第三方配置移动至单独界面 ([#765](https://github.com/Anobaka/Bakabase/issues/765))
+* 将下载器界面迁移至新版ui ([#766](https://github.com/Anobaka/Bakabase/issues/766))
+* 为大屏幕增加默认窗口尺寸 ([#767](https://github.com/Anobaka/Bakabase/issues/767))
+* 媒体库编辑界面初始化时，不再重复加载候选路径 ([#768](https://github.com/Anobaka/Bakabase/issues/768))
+* 获取资源填充封面时，优先展示手动设置的封面 ([#769](https://github.com/Anobaka/Bakabase/issues/769))
+* 不同增强器之间并行增强 ([#770](https://github.com/Anobaka/Bakabase/issues/770))
+* 为后台任务增加实时任务时间 ([#771](https://github.com/Anobaka/Bakabase/issues/771))
+* 在增强器配置属性后将属性加入至模板 ([#772](https://github.com/Anobaka/Bakabase/issues/772))
+* 在属性选择器中按照最近选择或选择次数情况排列属性 ([#773](https://github.com/Anobaka/Bakabase/issues/773))
+* 通过快捷筛选新增新媒体库的筛选条件时，自动进入编辑状态 ([#774](https://github.com/Anobaka/Bakabase/issues/774))
+* 为增强器增加一键创建全部属性的功能 ([#775](https://github.com/Anobaka/Bakabase/issues/775))
+* 增加近期删除筛选条件 ([#776](https://github.com/Anobaka/Bakabase/issues/776))
+* 增加AV增强器 ([#777](https://github.com/Anobaka/Bakabase/issues/777))
+* 增加TMDB增强器 ([#778](https://github.com/Anobaka/Bakabase/issues/778))
+* 为媒体库增加播放器配置 ([#779](https://github.com/Anobaka/Bakabase/issues/779))
 
 ### Bugs
 
 * 文件移动器覆盖设置不生效 ([#734](https://github.com/Anobaka/Bakabase/issues/734))
+* 修复文件路径填充器有时加载时间过长的问题 ([#759](https://github.com/Anobaka/Bakabase/issues/759))
+* 修复部分情况下资源详情展示属性不全的问题 ([#760](https://github.com/Anobaka/Bakabase/issues/760))
+* 修复增强任务无法终止的bug ([#761](https://github.com/Anobaka/Bakabase/issues/761))
 
-### Bugs
-
-* 文件移动器覆盖设置不生效 ([#734](https://github.com/Anobaka/Bakabase/issues/734))
 
 ## [1.9.1](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1/installer/Bakabase.zip)(2025-04-27)
 
