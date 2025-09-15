@@ -7,7 +7,7 @@ Bakabase 是一款离线媒体管理库，用于本地媒体快速处理、搜�
 本项目源自于本人自用软件，喜欢本软件的话请右上角star，并大力推荐给自己的朋友，感谢大家的支持。
 
 
-# 近期版本
+# 下载
 
 **关于版本名称**
 
@@ -17,17 +17,7 @@ Bakabase 是一款离线媒体管理库，用于本地媒体快速处理、搜�
 
 *3. 如果您更倾向向于稳定性，请下载正式版本；*
 
-
-| 版本 | 更新时间 | 下载地址 | 更新说明 |
-| ------------- | ------------- | ------------- | ------------- |
-| [v1.9.2-beta.25](./CHANGELOG.md) | 2025-08-21 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.2-beta.25/installer/bakabase.zip) | / |
-| [v1.9.1](./CHANGELOG.md) | 2025-04-27 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1/installer/Bakabase.zip) | / |
-| [v1.9.0](./CHANGELOG.md) | 2024-12-12 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.0/installer/Bakabase.zip) | [<1.9.0版本升级前请看](/guide/v190/v1.9.0) |
-| [v1.8.2](./CHANGELOG.md) | 2024-08-26 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.8.2/installer/Bakabase.InsideWorld.zip) | / |
-| [v1.8.1](./CHANGELOG.md) | 2024-08-13 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.8.1/installer/Bakabase.InsideWorld.zip) | / |
-| [v1.8.0](./CHANGELOG.md) | 2024-08-08 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.8.0/installer/Bakabase.InsideWorld.zip) | / |
-| [v1.7.3](./CHANGELOG.md) | 2024-03-11 | [下载](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.7.3/installer/Bakabase.InsideWorld.zip) | / |
-| [历史版本](https://github.com/anobaka/Bakabase/releases) | / | / |
+[去下载](https://github.com/anobaka/Bakabase/releases)
 
 # 开发状态
 

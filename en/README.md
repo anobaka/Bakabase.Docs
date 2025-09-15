@@ -7,7 +7,7 @@ It currently supports managing anime, manga, audio works, doujinshi, movies, and
 This project originated as my personal tool. If you like it, please star the repo and recommend it to your friends. Thank you for your support.
 
 
-# Recent releases
+# Download
 
 **About version names**
 
@@ -15,17 +15,7 @@ This project originated as my personal tool. If you like it, please star the rep
 2. RC versions are typically the release just before stable; the stable release is usually identical to the RC or only slightly adjusted.
 3. If you prefer stability, please download the stable release.
 
-
-| Version | Release date | Download | Notes |
-| ------------- | ------------- | ------------- | ------------- |
-| [v1.9.2-beta.23](./changelog.md) | 2025-08-17 | [Download](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.2-beta.23/installer/bakabase.zip) | / |
-| [v1.9.1](./changelog.md) | 2025-04-27 | [Download](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.1/installer/Bakabase.zip) | / |
-| [v1.9.0](./changelog.md) | 2024-12-12 | [Download](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.0/installer/Bakabase.zip) | [Read before upgrading from < 1.9.0](/guide/v190/v1.9.0) |
-| [v1.8.2](./changelog.md) | 2024-08-26 | [Download](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.8.2/installer/Bakabase.InsideWorld.zip) | / |
-| [v1.8.1](./changelog.md) | 2024-08-13 | [Download](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.8.1/installer/Bakabase.InsideWorld.zip) | / |
-| [v1.8.0](./changelog.md) | 2024-08-08 | [Download](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.8.0/installer/Bakabase.InsideWorld.zip) | / |
-| [v1.7.3](./changelog.md) | 2024-03-11 | [Download](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.7.3/installer/Bakabase.InsideWorld.zip) | / |
-| [Older releases](https://github.com/anobaka/Bakabase/releases) | / | / |
+[Go to download page](https://github.com/anobaka/Bakabase/releases)
 
 # Development status
 

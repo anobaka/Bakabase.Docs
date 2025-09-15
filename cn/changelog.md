@@ -1,3 +1,5 @@
+## [1.9.2-beta.23以后的更新日志](https://github.com/anobaka/Bakabase/releases)
+
 ## [1.9.2-beta.23](https://cdn-public.anobaka.com/app/bakabase/inside-world/1.9.2-beta.23/installer/Bakabase.zip)(2025-08-17)
 
 ### Features
