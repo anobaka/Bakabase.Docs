@@ -19,3 +19,7 @@ Inspect metadata, tags, files, and related content.
 A property can have different values per scope (e.g., library, template) for flexible display and search.
 
 ![Multiple scope property values](../../imgs/1-resource-multiple-scope-property-values.jpg)
+
+## Internal media player
+
+![Internal media player](../../imgs/1-resource-media-player.png)

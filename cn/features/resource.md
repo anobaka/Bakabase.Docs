@@ -19,3 +19,7 @@
 同一属性可在不同维度（如媒体库、模板）下拥有独立值，用于更灵活的展示与检索。
 
 ![多维度属性值](../../imgs/1-resource-multiple-scope-property-values.jpg)
+
+## 内置播放器
+
+![内置播放器](../../imgs/1-resource-media-player.png)
