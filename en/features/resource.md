@@ -3,6 +3,7 @@
 ## List
 Browse all resources in a grid view with selection, sorting, and quick actions.
 
+![Resource list](../../imgs/1-resource-list-v22.png)
 ![Resource list](../../imgs/1-resource-list.jpg)
 
 ## Filter

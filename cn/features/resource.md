@@ -3,6 +3,7 @@
 ## 列表
 展示所有资源的网格视图，支持选择、排序和快速操作。
 
+![资源列表](../../imgs/1-resource-list-v22.png)
 ![资源列表](../../imgs/1-resource-list.jpg)
 
 ## 筛选
